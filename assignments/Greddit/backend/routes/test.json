@@ -1,0 +1,19 @@
+{
+  "_id": { "$oid": "63f9bd6539decc5400b3c223" },
+  "Title": "user1_sub1",
+  "Description": "user1_desc1_sub1",
+  "Tags": ["tag1_user1", "tag2_user1"],
+  "BannedWords": ["banned1_user1", "banned2_user1"],
+  "Moderator": { "$oid": "63f90a8f2c2b917a84302e5c" },
+  "Members": [
+    "63f90a8f2c2b917a84302e5c",
+    { "$oid": "63f9d5a8e47f815a020898d8" }
+  ],
+  "Requests": [],
+  "Posts": [],
+  "Reports": [],
+  "BlockedUsers": [],
+  "leftusers": [],
+  "date": { "$date": { "$numberLong": "1677311333672" } },
+  "__v": { "$numberInt": "6" }
+}

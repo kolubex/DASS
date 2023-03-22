@@ -1,0 +1,11 @@
+/profile/profile.js 
+    => error on first click on followers or following.
+    => updating the details of user profile.
+    => even if i press 3000/ it should come to profile
+
+/Mysubgreddit/Mysubgreddit.js
+    => add image to the subgreddit.
+    => add banned words seperated by commas to subgreddit
+
+/Allsubgreddits/Allsubgreddits.js
+    => add fuzzy search, tag search, infinite scroll
